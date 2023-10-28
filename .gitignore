@@ -41,5 +41,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 .prettierrc
+.prettier.config.mjs
+.eslintrc.cjs
+
 *.lock
 ```
