@@ -14,13 +14,13 @@ export default function Hero() {
                 <div className="max-w-full">
 
                     <h1 className="mb-5 text-8xl font-bold ">
-                        Eventos, Alquileres, Decoración y más...{' '}
+                    Déjanos ayudarte a crear un evento inolvidable. {' '}
                     </h1>
 
-                    <p className="mb-5 text-2xl font-light">
-                        Hacemos su evento especial y realmente inolvidable
+                    <p className="mb-5 text-3xl text-info">
+                    Alquileres, Eventos, Decoración y más...
                     </p>
-                    <button className="btn btn-primary">Reserva Ahora!</button>
+                    <button className="btn btn-primary">Contactanos</button>
                 </div>
             </div>
         </div>

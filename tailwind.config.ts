@@ -6,8 +6,8 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['var(--font-sans)', ...fontFamily.sans],
-                serif: ['var(--font-serif)', ...fontFamily.serif],
+                'sans': ['Lato', 'ui-sans-serif', 'system-ui'],
+               // serif: ['var(--font-serif)', ...fontFamily.serif],
             },
         },
     },
