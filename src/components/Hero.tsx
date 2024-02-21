@@ -1,7 +1,9 @@
 import React from 'react'
 
+
 export default function Hero() {
     return (
+        
         <div
             className="hero min-h-screen"
             style={{
@@ -13,7 +15,7 @@ export default function Hero() {
             <div className="text-center hero-content ">
                 <div className="max-w-full">
 
-                    <h1 className="mb-5 text-8xl font-bold ">
+                    <h1 className="mb-5 text-3xl font-bold sm:text-8xl">
                     Déjanos ayudarte a crear un evento inolvidable. {' '}
                     </h1>
 

@@ -60,8 +60,8 @@ export default function Footer() {
                     </div>
                 </nav>
             </footer>
-            <footer className="footer footer-center p-10 bg-primary text-base-content rounded text-secondary">
-                <p>Copyright © 2023 - All right reserved </p>
+            <footer className="footer footer-center p-2 bg-primary text-base-content rounded text-secondary">
+                <p>Copyright © 2024 - All right reserved - Eventos Power Zone</p>
             </footer>
         </>
     )
